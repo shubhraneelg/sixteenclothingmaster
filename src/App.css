@@ -1,0 +1,69 @@
+
+/* Custom CSS */
+
+.left-content{
+  text-align: justify;
+}
+
+.service-detail{
+  margin-top:  10%;
+}
+
+.service-detail-title{
+  text-align: center;
+  color: chocolate;
+}
+
+.service-detail-description,.content{
+  text-align: justify;
+}
+
+.service-detail-image{
+ width: 100%;
+}
+
+.productDetail{
+  margin-top:  10%;
+}
+.productDetailTitle{
+  text-align: left;
+  color:rgb(28, 107, 192);
+}
+.productDetailDescription article p{
+  text-align: justify;
+  font-size: medium;
+}
+.productDetailImage{
+  width: 100%;
+ }
+ .productReview{
+  margin: 0 auto;
+  
+
+ }
+ .prod{
+  
+  height: 84px;
+  
+ }
+ .productPrice{
+   padding-top: 15px ;
+ }
+ .starContainer{
+  /* min-width: 696px; */
+  list-style: none;
+  text-align: right;
+	/* padding-top: 20px; */
+ }
+ .starContainer li{
+  display: inline;
+  color: red;
+  font-size: 40px;
+  
+ }
+
+ .happyClientText{
+   text-align: center;
+   font-size: medium;
+ }
+ 
